@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Tamás 👋
 
-<!--
-**VeTamas/VeTamas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI engineer focused on building practical automation systems using LLMs, RAG pipelines, and modular AI workflows.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Manufacturing AI Design Review Engine**  
+AI-assisted engineering workflow combining rule-based evaluation, retrieval pipelines, and LLM explanations.
+
+📚 **Fusion 360 Documentation Assistant**  
+RAG-based AI assistant for Autodesk Fusion 360 documentation with tool-first routing and structured logging.
+
+## Interests
+
+- AI agents
+- workflow automation
+- applied AI systems
+- developer tooling
+
+## Tech
+
+Python • LangChain • LangGraph • FAISS • ChromaDB • Ollama • OpenAI API
