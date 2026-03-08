@@ -10,7 +10,8 @@ AI-assisted engineering workflow combining rule-based evaluation, retrieval pipe
 📚 **Fusion 360 Documentation Assistant**  
 RAG-based AI assistant for Autodesk Fusion 360 documentation with tool-first routing and structured logging.
 
-🤖 KoderMI — Desktop multi-agent dev assistant: plans, codes, tests, and reviews — with human approval at every step.
+🤖 **KoderMI**
+Desktop multi-agent dev assistant: plans, codes, tests, and reviews — with human approval at every step.
 
 ## Interests
 
