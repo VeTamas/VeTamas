@@ -13,6 +13,9 @@ RAG-based AI assistant for Autodesk Fusion 360 documentation with tool-first rou
 🤖 **KoderMI**
 Desktop multi-agent dev assistant: plans, codes, tests, and reviews — with human approval at every step.
 
+**cvmatcher**
+An application that matches your CV with a job description and shows how good the match is.
+
 ## Interests
 
 - AI agents
